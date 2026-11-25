@@ -1,0 +1,21 @@
+Name:Swadhin
+NId Number:923956833583
+Password:1234
+Gender:Male
+Age:21
+Birth Date:1/Jan/1991
+*
+Name:Akib
+NId Number:123456789
+Password:1234
+Gender:Male
+Age:12
+Birth Date:1/Jan/1991
+*
+Name:Swadhinnn
+NId Number:54321
+Password:12341234
+Gender:Male
+Age:22
+Birth Date:2/Jan/2005
+*
